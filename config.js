@@ -1,0 +1,3 @@
+export const BASE_URL = __ENV.BASE_URL || 'http://localhost:3000'
+
+export const TOKEN = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJhZG1pbkBiaWJsaW90ZWNhLmNvbSIsImlzQWRtaW4iOnRydWUsImlhdCI6MTc2MzgyOTUyNCwiZXhwIjoxNzYzODU4MzI0fQ.lZBtVYdVX3sTJDK7OQuSbv-iKv5FKmALtfULqU55pWM'
